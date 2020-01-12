@@ -25,8 +25,8 @@ frontend:
 ### HACS
 
 1. Go to the Community Store.
-2. Search for `Template`.
-3. Navigate to `Template` theme.
+2. Search for `Sundown`.
+3. Navigate to `Sundown` theme.
 4. Press `Install`.
 6. Go to services and trigger the `frontend.reload_themes` service.
 
@@ -36,12 +36,12 @@ Clone this repository in your existing (or create it) `themes/` folder.
 
 ```bash
 cd themes/
-git clone https://github.com/home-assistant-community-themes/template.git
+git clone https://github.com/am80l/sundown.git
 ```
 
 Or using submodules:
 
 ```bash
 cd themes/
-git submodule add https://github.com/home-assistant-community-themes/template.git
+git submodule add https://github.com/am80l/sundown.git
 ```
