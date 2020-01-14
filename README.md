@@ -23,9 +23,9 @@ frontend:
 ```
 
 Add the following line to your lovelace-ui.yaml or use the RAW editor:
-
+```
 background: var(--background-image)
-
+```
 (Optional) add the following to the same file to make the header smaller (you need to install cch too):
 ```
 cch:
