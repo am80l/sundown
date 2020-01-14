@@ -22,6 +22,19 @@ frontend:
   ... # your configuration.
 ```
 
+Add the following line to your lovelace-ui.yaml or use the RAW editor:
+
+background: var(--background-image)
+
+(Optional) add the following to the same file to make the header smaller (you need to install cch too):
+```
+cch:
+  background: 'rgba(155, 155, 155, 0.25)'
+  clock_format: 24
+  options: clock
+  swipe_animate: fade
+  swipe_prevent_default: true
+```
 ### HACS
 
 1. Go to the Community Store.
