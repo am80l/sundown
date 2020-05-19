@@ -23,6 +23,7 @@ sundown:
   divider-color: "rgba(0, 0, 0, .12)" # Divider
   data-table-background-color: "#433557"
   sidebar-background-color: "#433557"
+  mdc-theme-surface: "#433557"
 
   # Table rows
   table-row-background-color: "#353840" # Table row
