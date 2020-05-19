@@ -61,6 +61,7 @@ sundown:
   paper-toggle-button-unchecked-button-color: "var(--disabled-text-color)"
   paper-toggle-button-unchecked-bar-color: "var(--disabled-text-color)"
   paper-toggle-button-unchecked-ink-color: "var(--disabled-text-color)"
+  switch-unchecked-button-color: "#524566"
 
   # Sliders
   paper-slider-knob-color: "var(--accent-color)"
